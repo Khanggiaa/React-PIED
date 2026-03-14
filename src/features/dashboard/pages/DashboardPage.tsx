@@ -8,6 +8,8 @@ import {
   CardTitle,
 } from "@/shared/components/ui/card";
 
+import { lazy } from "react";
+
 /**
  * Admin Dashboard - Trang chủ của admin.
  * Hiển thị các shortcut links đến các tính năng quản lý.
